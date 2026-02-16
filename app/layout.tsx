@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "@/app/globals.css";
 
 export const metadata: Metadata = {
-  title: "PromptDeck",
-  description: "Your personal collection of AI prompts",
+  title: "Scriptorum",
+  description: "A simple prompt manager for ChatGPT and other LLMs.",
 };
 
 export default function RootLayout({
